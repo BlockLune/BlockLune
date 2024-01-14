@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋 This is BlockLune
+</h1>
 
-<!--
-**BlockLune/BlockLune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=blocklune&layout=compact&theme=dracula&show"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats-git-master-blocklune.vercel.app/api?username=blocklune&show_icons=true&custom_title=Github%20Stats&theme=dracula"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m studying at [NJUPT](https://www.njupt.edu.cn/)
+- 🌱 I'm learning vim!
+- 📫 How to reach me: [blocklune@gmail.com](mailto:blocklune@gmail.com)

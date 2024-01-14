@@ -6,7 +6,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=blocklune&layout=compact&theme=dracula&show&exclude_repo=blocklune.github.io,HexoSourceRepo,Hexo-source-repo&hide=html"
+      src="https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=BlockLune&theme=dracula&exclude_repo=blocklune.github.io,HexoSourceRepo,Hexo-source-repo&hide=html&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">

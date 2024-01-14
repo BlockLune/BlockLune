@@ -1,22 +1,8 @@
-<h1 align="center">
-  Hi there 👋 This is BlockLune
-</h1>
+# Hi there 👋 This is BlockLune
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=BlockLune&theme=dracula&exclude_repo=blocklune.github.io,HexoSourceRepo,Hexo-source-repo&hide=html&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats-git-master-blocklune.vercel.app/api?username=blocklune&show_icons=true&custom_title=Github%20Stats&theme=dracula"
-    />
-  </a>
-</p>
+[![BlockLune's GitHub Stats](https://github-readme-stats-git-master-blocklune.vercel.app/api?username=blocklune&theme=dracula&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![BlockLune's Most Used Languages](https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=BlockLune&theme=dracula&exclude_repo=blocklune.github.io,HexoSourceRepo,Hexo-source-repo&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m studying at [NJUPT](https://www.njupt.edu.cn/)
 - 🌱 I'm learning vim!

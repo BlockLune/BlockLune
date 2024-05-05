@@ -1,9 +1,49 @@
 # Hi there 👋 This is BlockLune
 
-[![BlockLune's GitHub Stats](https://github-readme-stats-git-master-blocklune.vercel.app/api?username=blocklune&theme=dracula&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![BlockLune's Most Used Languages](https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=BlockLune&theme=dracula&exclude_repo=blocklune.github.io,HexoSourceRepo,Hexo-source-repo,EmulationSystemFrontend&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Adobe AE](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Adobe AI](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Adobe ID](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Adobe LR](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Adobe PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 - 🔭 I’m studying at [NJUPT](https://www.njupt.edu.cn/)
 - 🌱 I'm learning vim!
 - 📫 How to reach me: [blocklune@gmail.com](mailto:blocklune@gmail.com)
+
+[![BlockLune's GitHub Stats](https://github-readme-stats-git-master-blocklune.vercel.app/api?username=blocklune&theme=dracula&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![BlockLune's Most Used Languages](https://github-readme-stats-git-master-blocklune.vercel.app/api/top-langs/?username=BlockLune&theme=dracula&exclude_repo=blocklune.github.io,HexoSourceRepo,Hexo-source-repo,EmulationSystemFrontend&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlockLune&theme=dracula&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BlockLune&theme=dracula)](https://git.io/streak-stats)

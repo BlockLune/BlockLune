@@ -1,8 +1,7 @@
 # Hi there 👋 This is BlockLune
 
-- 🔭 I’m studying at [NJUPT](https://www.njupt.edu.cn/)
-- 🌱 I'm learning vim!
-- 📫 How to reach me: [blocklune@gmail.com](mailto:blocklune@gmail.com)
+- 🔭 I’m a student majoring in computer science and technology
+- 📫 How to reach me: [i@blocklune.cc](mailto:i@blocklune.cc)
 
 [![BlockLune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blocklune&theme=dracula&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 

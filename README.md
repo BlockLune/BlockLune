@@ -21,7 +21,7 @@
 [Merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ablocklune+-user%3Ablocklune) ·
 [All Involvements](https://github.com/pulls?q=involves%3Ablocklune+-user%3Ablocklune)
 
-<br>
+<hr>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blocklune&theme=nord&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 

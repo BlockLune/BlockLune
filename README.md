@@ -1,4 +1,6 @@
-[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2?theme=nord)](https://gitroll.io/profile/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2)
+<a href="https://gitroll.io/profile/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2" >
+  <img src="https://gitroll.io/api/badges/profiles/v1/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2?theme=nord" style="max-width: 600px; width: 100%;" alt="GitRoll Profile Badge">
+</a>
 
 > Hi there 👋 This is BlockLune
 

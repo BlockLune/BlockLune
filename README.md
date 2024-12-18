@@ -1,8 +1,4 @@
-<a href="https://gitroll.io/profile/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2" >
-  <img src="https://gitroll.io/api/badges/profiles/v1/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2?theme=nord" style="max-width: 600px; width: 100%;" alt="GitRoll Profile Badge">
-</a>
-
-> Hi there 👋 This is BlockLune
+# Hi there 👋 This is BlockLune
 
 - 🔭 I’m a student majoring in computer science and technology.
 - ✨ I believe in technology and that it will bring a better future for people.
@@ -34,3 +30,5 @@
 [![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockLune&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BlockLune&theme=nord)](https://git.io/streak-stats)
+
+[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2?theme=nord)](https://gitroll.io/profile/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2)

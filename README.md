@@ -29,4 +29,3 @@
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BlockLune&theme=nord&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2?theme=nord)](https://gitroll.io/profile/uKbjoWRe2cVQGqMuIgfYUJTqBKkb2)
